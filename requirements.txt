@@ -1,0 +1,11 @@
+youtube-transcript-api>=0.5.0
+streamlit>=1.22.0
+openai>=0.27.0
+scikit-learn>=1.0.2
+numpy>=1.22.0
+gtts>=2.2.4
+python-dotenv>=0.19.0
+# Optional: MangaOCR for Japanese handwriting recognition
+# Uncomment to install (requires PyTorch)
+# manga-ocr>=0.1.8
+Pillow>=9.0.0 

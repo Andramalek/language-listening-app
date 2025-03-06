@@ -1,0 +1,15 @@
+# Dataset files
+datasets/
+*.zip
+
+# Model files
+models/*.npy
+
+# Python generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# System files
+.DS_Store
+Thumbs.db

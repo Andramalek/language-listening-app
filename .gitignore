@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.class
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated audio files
+data/audio/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Dataset files
+finger_spelling_agent/datasets/
+*.zip
+
+# Large model files
+finger_spelling_agent/models/*.npy
